@@ -6,12 +6,17 @@
 
 .deviceCount{
     border-radius: 50%;
-    width:70px;
+    width:100px;
     font-size: 40px;
-    background:#ffffff;
+    color:#ffffff;
     text-align: center;
     margin: auto;
     position:absolute;
     left:50%;
     top:40%;
+}
+.devicesOnline{
+    font-size: 15px;
+    font-family: monospace;
+    color:#ffffff;
 }
