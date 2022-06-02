@@ -1,3 +1,6 @@
-export default function Form() {
-    return ();
+
+export default function Form({children, ...rest}) {
+    return (<form {...rest}>
+        {children}
+    </form>);
 }

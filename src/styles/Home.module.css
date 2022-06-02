@@ -1,0 +1,17 @@
+.containerBg{
+    background-color: #ff7143;
+    min-height:70vh;
+    margin: 0rem auto !important;
+}
+
+.deviceCount{
+    border-radius: 50%;
+    width:70px;
+    font-size: 40px;
+    background:#ffffff;
+    text-align: center;
+    margin: auto;
+    position:absolute;
+    left:50%;
+    top:40%;
+}
