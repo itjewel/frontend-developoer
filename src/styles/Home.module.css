@@ -1,22 +1,23 @@
-.containerBg{
+/* .containerBg {
     background-color: #ff7143;
-    min-height:70vh;
+    min-height: 70vh;
     margin: 0rem auto !important;
 }
 
-.deviceCount{
+.deviceCount {
     border-radius: 50%;
-    width:100px;
+    width: 100px;
     font-size: 40px;
-    color:#ffffff;
+    color: #ffffff;
     text-align: center;
     margin: auto;
-    position:absolute;
-    left:50%;
-    top:40%;
+    position: absolute;
+    left: 50%;
+    top: 40%;
 }
-.devicesOnline{
+
+.devicesOnline {
     font-size: 15px;
     font-family: monospace;
-    color:#ffffff;
-}
+    color: #ffffff;
+} */

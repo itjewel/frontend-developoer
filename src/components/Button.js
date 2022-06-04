@@ -1,5 +1,5 @@
 export default function Button({ children }) {
-    return (<div className="button">
+    return (<button className="button" type="submit">
         {children}
-    </div>);
+    </button>);
 }
